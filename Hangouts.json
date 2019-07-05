@@ -1,0 +1,207 @@
+{
+  "conversations": [
+    {
+      "conversation": {
+        "conversation_id": {
+          "id": "Ugz5V85dOjj6qjNrY9N4AaABAagBqd_TAg"
+        },
+        "conversation": {
+          "id": {
+            "id": "Ugz5V85dOjj6qjNrY9N4AaABAagBqd_TAg"
+          },
+          "type": "STICKY_ONE_TO_ONE",
+          "self_conversation_state": {
+            "self_read_state": {
+              "participant_id": {
+                "gaia_id": "103541316792926558839",
+                "chat_id": "103541316792926558839"
+              },
+              "latest_read_timestamp": "1471538525521187"
+            },
+            "status": "ACTIVE",
+            "notification_level": "RING",
+            "view": [
+              "INBOX_VIEW"
+            ],
+            "inviter_id": {
+              "gaia_id": "103541316792926558839",
+              "chat_id": "103541316792926558839"
+            },
+            "invite_timestamp": "1471538408532000",
+            "sort_timestamp": "1475163484229000",
+            "active_timestamp": "1471538408532000",
+            "delivery_medium_option": [
+              {
+                "delivery_medium": {
+                  "medium_type": "BABEL_MEDIUM"
+                },
+                "current_default": true
+              }
+            ],
+            "is_guest": false
+          },
+          "read_state": [
+            {
+              "participant_id": {
+                "gaia_id": "103541316792926558839",
+                "chat_id": "103541316792926558839"
+              },
+              "latest_read_timestamp": "1471538525521187"
+            },
+            {
+              "participant_id": {
+                "gaia_id": "116837418402996330079",
+                "chat_id": "116837418402996330079"
+              },
+              "latest_read_timestamp": "0"
+            }
+          ],
+          "has_active_hangout": false,
+          "otr_status": "ON_THE_RECORD",
+          "otr_toggle": "ENABLED",
+          "current_participant": [
+            {
+              "gaia_id": "103541316792926558839",
+              "chat_id": "103541316792926558839"
+            },
+            {
+              "gaia_id": "116837418402996330079",
+              "chat_id": "116837418402996330079"
+            }
+          ],
+          "participant_data": [
+            {
+              "id": {
+                "gaia_id": "103541316792926558839",
+                "chat_id": "103541316792926558839"
+              },
+              "fallback_name": "kayla mathis",
+              "invitation_status": "ACCEPTED_INVITATION",
+              "participant_type": "GAIA",
+              "new_invitation_status": "ACCEPTED_INVITATION",
+              "in_different_customer_as_requester": false,
+              "domain_id": "105250506097979753968"
+            },
+            {
+              "id": {
+                "gaia_id": "116837418402996330079",
+                "chat_id": "116837418402996330079"
+              },
+              "fallback_name": "Cerissa",
+              "invitation_status": "ACCEPTED_INVITATION",
+              "participant_type": "GAIA",
+              "new_invitation_status": "ACCEPTED_INVITATION",
+              "in_different_customer_as_requester": false,
+              "domain_id": "105250506097979753968"
+            }
+          ],
+          "fork_on_external_invite": false,
+          "network_type": [
+            "BABEL"
+          ],
+          "force_history_state": "NO_FORCE",
+          "group_link_sharing_status": "LINK_SHARING_OFF"
+        }
+      },
+      "events": [
+        {
+          "conversation_id": {
+            "id": "Ugz5V85dOjj6qjNrY9N4AaABAagBqd_TAg"
+          },
+          "sender_id": {
+            "gaia_id": "103541316792926558839",
+            "chat_id": "103541316792926558839"
+          },
+          "timestamp": "1471538525521187",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "103541316792926558839",
+              "chat_id": "103541316792926558839"
+            },
+            "client_generated_id": "7298530374512103742",
+            "notification_level": "RING"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "LINK",
+                  "text": "https://maps.google.com/maps?q=-18.2160775,7.5464882",
+                  "link_data": {
+                    "link_target": "https://www.google.com/url?q=https://maps.google.com/maps?q%3D-18.2160775,7.5464882&sa=D&source=hangouts&ust=1562217868059000&usg=AFQjCNGXBkfiyNJ9dB9DoxXROxsk1yR8tg"
+                  }
+                }
+              ],
+              "attachment": [
+                {
+                  "embed_item": {
+                    "type": [
+                      "PLACE_V2",
+                      "THING_V2",
+                      "THING"
+                    ],
+                    "id": "https://maps.google.com/maps?q=-18.2160775,7.5464882",
+                    "place_v2": {
+                      "url": "https://maps.google.com/maps?q=-18.2160775,7.5464882",
+                      "name": "18°12'57.9\"S 7°32'47.4\"E",
+                      "address": {
+                        "postal_address_v2": {
+                          "street_address": ""
+                        }
+                      },
+                      "geo": {
+                        "geo_coordinates_v2": {
+                          "latitude": -18.2160775,
+                          "longitude": 7.5464882
+                        }
+                      },
+                      "representative_image": {
+                        "type": [
+                          "IMAGE_OBJECT_V2",
+                          "MEDIA_OBJECT_V2",
+                          "CREATIVE_WORK_V2",
+                          "THING_V2",
+                          "THING"
+                        ],
+                        "id": "https://maps.googleapis.com/maps/api/staticmap?center=-18.2160775,7.5464882&markers=color:red%7C-18.2160775,7.5464882&size=400x400",
+                        "image_object_v2": {
+                          "url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.2160775,7.5464882&markers=color:red%7C-18.2160775,7.5464882&size=400x400&key=AIzaSyD7InnYR3VKdb4j2rMUEbTCIr2VyEazl6k&signature=OBAhiW-EOT0-ZJgjdBhGwuInMuo="
+                        }
+                      }
+                    },
+                    "thing_v2": {
+                      "url": "https://maps.google.com/maps?q=-18.2160775,7.5464882",
+                      "name": "18°12'57.9\"S 7°32'47.4\"E",
+                      "representative_image": {
+                        "type": [
+                          "IMAGE_OBJECT_V2",
+                          "MEDIA_OBJECT_V2",
+                          "CREATIVE_WORK_V2",
+                          "THING_V2",
+                          "THING"
+                        ],
+                        "id": "https://maps.googleapis.com/maps/api/staticmap?center=-18.2160775,7.5464882&markers=color:red%7C-18.2160775,7.5464882&size=400x400",
+                        "image_object_v2": {
+                          "url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.2160775,7.5464882&markers=color:red%7C-18.2160775,7.5464882&size=400x400&key=AIzaSyD7InnYR3VKdb4j2rMUEbTCIr2VyEazl6k&signature=OBAhiW-EOT0-ZJgjdBhGwuInMuo="
+                        }
+                      }
+                    }
+                  },
+                  "id": "attachment0"
+                }
+              ]
+            }
+          },
+          "event_id": "8HixsdUPFiC8Hiy5ubSQog",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1471538525521187"
+        }
+      ]
+    }
+  ]
+}
